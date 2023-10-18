@@ -200,7 +200,7 @@ section img#bg
 
 .pravidilka {
     width: 1200px;
-    height: 2048px;
+    height: 2700px;
     padding: 15px;
     background-color: rgba(167, 242, 255, 0.63);
     box-shadow: 10px 10px;
@@ -211,4 +211,9 @@ section img#bg
 #prvni_pravidlo {
     text-align: center;
     color:#ffffff
+}
+
+.cayoperico {
+    width: 400px;
+    height: 400px;
 }
