@@ -199,11 +199,16 @@ section img#bg
 
 
 .pravidilka {
-    width: 690px;
+    width: 1200px;
     height: 2048px;
     padding: 15px;
     background-color: rgba(167, 242, 255, 0.63);
     box-shadow: 10px 10px;
     margin-top: 10%;
-    margin-left: 35%;
+    margin-left: 20%;
+}
+
+#prvni_pravidlo {
+    text-align: center;
+    color:#ffffff
 }
