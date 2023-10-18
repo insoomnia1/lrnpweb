@@ -44,6 +44,7 @@ header ul
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-right: 40%;
 }
 header ul li
 {
@@ -200,5 +201,27 @@ section img#bg
     text-underline-position: under;
     color:rgb(0, 0, 0)
 
+}
+
+.obloukokolo {
+    width: 500px;
+    height: 200px;
+    padding: 15px;
+    background-color: #3232329d;
+    /* box-shadow: 10px 10px; */
+    margin-top: 15%;
+    margin-left: 60%;
+}
+
+h1 {
+    color:white
+}
+
+.UpravaWebu {
+    margin-top: 20%;
+    margin-left: 65%;
+}
+#dekujeme {
+    color:white
 }
 
